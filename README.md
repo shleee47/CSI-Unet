@@ -1,12 +1,3 @@
-## VisTR: End-to-End Video Instance Segmentation with Transformers
-
-This is the official implementation of the [VisTR paper](https://arxiv.org/abs/2011.14503):
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/16319629/110786946-b99aa080-82a7-11eb-98e4-85478ca4eeac.png" width="600">
-</p>
-
-
 ### Installation
 We provide instructions how to install dependencies via conda.
 First, clone the repository locally:
